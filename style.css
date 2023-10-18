@@ -73,26 +73,6 @@ footer {
     width: 100%;
 }
 
-/* Estilos para o carrossel */
-.carousel {
-    display: flex;
-    overflow: hidden;
-    width: 300px; /* Ajuste a largura conforme necessário */
-    height: 200px; /* Ajuste a altura conforme necessário */
-}
-
-/* Estilos para cada slide */
-.slide {
-    flex: 0 0 100%; /* Cada slide ocupa 100% da largura do contêiner */
-    height: 100%;
-    transition: transform 1s ease; /* Efeito de transição suave */
-}
-
-/* Adicione estilos para as imagens de fundo dos slides, como tamanho, posicionamento, etc. */
-.slide {
-    background-size: cover;
-    background-position: center;
-}
 
 
   
