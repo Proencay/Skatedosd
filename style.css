@@ -73,3 +73,16 @@ footer {
     width: 100%;
 }
 
+/* Estilos para o container dos cards */
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Espaçamento uniforme entre os cards */
+    flex-wrap: wrap; /* Permite que os cards quebrem para a próxima linha quando não há espaço suficiente na tela */
+  }
+  
+  /* Estilos para cada card individual */
+  .card {
+    width: calc(33.33% - 10px); /* Defina a largura de cada card com margens entre eles */
+    margin: 5px; /* Margens para separar os cards */
+  }
+  
