@@ -73,17 +73,26 @@ footer {
     width: 100%;
 }
 
-/* Estilos para o container dos cards */
-.card-container {
+/* Estilos para o carrossel */
+.carousel {
     display: flex;
-    justify-content: space-between; /* Espaçamento uniforme entre os cards */
-    flex-wrap: wrap; /* Permite que os cards quebrem para a próxima linha quando não há espaço suficiente na tela */
-  }
-  
-  /* Estilos para cada card individual */
-  .card {
-    width: calc(33.33% - 10px); /* Defina a largura de cada card com margens entre eles */
-    margin: 5px; /* Margens para separar os cards */
-  }
-  
+    overflow: hidden;
+    width: 300px; /* Ajuste a largura conforme necessário */
+    height: 200px; /* Ajuste a altura conforme necessário */
+}
+
+/* Estilos para cada slide */
+.slide {
+    flex: 0 0 100%; /* Cada slide ocupa 100% da largura do contêiner */
+    height: 100%;
+    transition: transform 1s ease; /* Efeito de transição suave */
+}
+
+/* Adicione estilos para as imagens de fundo dos slides, como tamanho, posicionamento, etc. */
+.slide {
+    background-size: cover;
+    background-position: center;
+}
+
+
   
