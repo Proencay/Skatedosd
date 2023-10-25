@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin-left: 10px;
 }
 
 header{
@@ -17,7 +18,7 @@ nav{
     position: absolute;
     top: 35px;
     right: 0;
-    margin-left: 10px;
+    
 }
 
 nav li{
