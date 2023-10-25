@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    margin-right: 50px;
+    
 }
 
 header{
@@ -18,13 +18,13 @@ nav{
     position: absolute;
     top: 35px;
     right: 0;
-    
+    margin-right: 50px;
 }
 
 nav li{
     display: inline;
     margin: 0 0 0 15px;
-}
+} 
 
 nav a{
     text-transform: uppercase;
