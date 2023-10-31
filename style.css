@@ -40,6 +40,11 @@ nav a{
     font-size: 22px;
     text-decoration: none;
     margin-right: 30px;
+    
+}
+
+h1{
+    margin-left: 30px;
 }
 
 nav a:hover{
