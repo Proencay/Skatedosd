@@ -10,9 +10,16 @@ header{
 
 .caixa{
     position: relative;
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
 }
+
+.imgcaixa{
+    position: relative;
+    width: 100px;
+    margin: 0 auto;
+}
+
 
 nav{
     position: absolute;
