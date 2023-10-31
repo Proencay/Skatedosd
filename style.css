@@ -22,13 +22,9 @@ header{
 
 
 nav{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-    margin-right: 30px;
-    
+    position: absolute;
+    top: 20px;
+    right: 0;
    
 }
 
