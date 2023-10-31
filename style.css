@@ -16,7 +16,8 @@ header{
 
 .imgcaixa{
     position: relative;
-    width: 200px;
+    width: 50px;
+    margin-top: 0;
     
 }
 
