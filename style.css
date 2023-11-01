@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: #f2f7f2;
+    background-color: #000000;
     
 }
 
@@ -42,7 +42,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
