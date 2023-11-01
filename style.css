@@ -55,7 +55,7 @@ h1{
 }
 
 nav a:hover{
-    color: #ffffff;
+    color: #000000;
     text-decoration: underline;
     font-size: 40px;
 }
