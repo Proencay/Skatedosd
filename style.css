@@ -281,6 +281,6 @@ td, th{
    }
 
    .lista-beneficios, .imagem-beneficios{
-    width: 30%;
+    width: 100%;
    }
-}
+width: image-rendering: ;;
