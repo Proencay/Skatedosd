@@ -11,7 +11,7 @@ header{
 
 
 .branco{
-    color: #000000;
+    color: #fcf8f8;
 }
 
 .caixa{
@@ -74,7 +74,7 @@ nav a:hover{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid rgb(6, 6, 6);
+    border: 2px solid rgb(248, 243, 243);
     border-radius: 10px;As Melhores Peças
 }
 
