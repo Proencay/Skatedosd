@@ -68,7 +68,7 @@ nav a:hover{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid rgb(215, 8, 8);
+    border: 2px solid rgb(6, 6, 6);
     border-radius: 10px;
 }
 
@@ -156,7 +156,7 @@ table{
 
 thead{
     background: #555555;
-    color: rgb(157, 153, 153);
+    color: rgb(249, 246, 246);
     font-weight: bold;
 }
 
