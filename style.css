@@ -77,7 +77,7 @@ nav a:hover{
 }
 
 .produtos li:active{
-    border-color: #088c19;
+    border-color: #fafafa;
 }
 
 .produtos li:hover h2{
