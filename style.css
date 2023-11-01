@@ -9,6 +9,11 @@ header{
     padding: 10px 0;
 }
 
+
+.branco{
+    color: #ffffff;
+}
+
 .caixa{
     position: relative;
     width: 500px;
