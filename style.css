@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: #ffffff;
+    background-color: #f7f2f2;
     
 }
 
@@ -55,7 +55,7 @@ h1{
 }
 
 nav a:hover{
-    color: #000000;
+    color: #fafafa;
     text-decoration: underline;
     font-size: 40px;
 }
@@ -83,7 +83,7 @@ nav a:hover{
 }
 
 .produtos li:active{
-    border-color: #000000;
+    border-color: #ffffff;
 }
 
 .produtos li:hover h2{
@@ -112,7 +112,7 @@ footer{
 }
 
 .copyright{
-    color: rgb(245, 242, 242);
+    color: rgb(247, 245, 245);
     font-size: 13px;
     margin-top: 20px;
 }
@@ -150,6 +150,7 @@ form label, form legend{
     transition: 1s all;
     cursor: pointer;
 }
+
 
 .enviar:hover{
     background: rgb(248, 246, 243);
