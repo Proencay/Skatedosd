@@ -146,7 +146,7 @@ form label, form legend{
 }
 
 .enviar:hover{
-    background: darkorange;
+    background: rgb(248, 246, 243);
     transform: rotate(360deg) scale(1.2);
 }
 
