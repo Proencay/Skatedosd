@@ -1,6 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: #222b23;
+    background-color: #f2f7f2;
     
 }
 
@@ -75,7 +75,7 @@ nav a:hover{
     padding: 30px 20px;
     box-sizing: border-box;
     border: 2px solid rgb(6, 6, 6);
-    border-radius: 10px;
+    border-radius: 10px;As Melhores Peças
 }
 
 .produtos li:hover{
