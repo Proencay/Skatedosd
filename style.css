@@ -281,7 +281,7 @@ td, th{
    }
 
    .lista-beneficios, .imagem-beneficios{
-    width: 10%;
+    width: 100%;
    }
 }
 
@@ -289,6 +289,6 @@ td, th{
     width: 20%;
 }
 .peças2{
-    width: 20%%;
+    width: 10%%;
     position: relative;
 }
