@@ -287,8 +287,9 @@ td, th{
 
 .peças{
     width: 20%;
+    position: relative;
 }
 .peças2{
-    width: 10%;
+    width: 20%;
     position: relative;
 }
