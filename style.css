@@ -40,14 +40,14 @@ nav li{
     justify-content: space-between; 
 } 
 
-nav a{
+nav a{https://cdn.awsli.com.br/800x800/591/591154/produto/224300629/st-rs-01-tdgyohn1r5.png
     text-transform: uppercase;
     color: #ffffff;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
     margin-right: 30px;
-    
+    https://cdn.awsli.com.br/800x800/591/591154/produto/224300629/st-rs-01-tdgyohn1r5.png
 }
 
 h1{
@@ -281,7 +281,7 @@ td, th{
    }
 
    .lista-beneficios, .imagem-beneficios{
-    width: 100%;
+    width: 50%;
    }
 }
 
