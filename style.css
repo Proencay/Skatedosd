@@ -174,7 +174,9 @@ td, th{
 
 /* css da pagina inicial */
 .banner{
-    width: 50%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .titulo-principal{
