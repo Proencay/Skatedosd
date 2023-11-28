@@ -174,10 +174,12 @@ td, th{
 
 /* css da pagina inicial */
 .banner{
-    width: 30%;
-    margin-left: auto;
-    margin-right: auto;
-}
+    
+        width: 100%;
+        height: 200px; /* Substitua 200px pelo valor desejado para a altura */
+        margin-left: auto;
+        margin-right: auto;
+    }
 
 .titulo-principal{
     text-align: center;
