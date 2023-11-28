@@ -176,7 +176,7 @@ td, th{
 .banner{
     
         width: 100%;
-        height: 200px; /* Substitua 200px pelo valor desejado para a altura */
+        height: 500px; /* Substitua 200px pelo valor desejado para a altura */
         margin-left: auto;
         margin-right: auto;
     }
