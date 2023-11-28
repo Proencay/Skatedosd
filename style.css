@@ -288,10 +288,17 @@ td, th{
    }
 }
 
-.peças{
-    width: 50%;
-    position: relative;
+.cartao {
+    display: flex;
+    justify-content: space-around;
 }
+
+.pecas {
+    width: 300px; /* Defina o tamanho desejado para as imagens */
+    height: auto; /* Para manter a proporção da imagem */
+    border: 1px solid #ccc; /* Adicione uma borda para destacar as imagens (opcional) */
+}
+
 .peças2{
     width: 10%;
     position: relative;
